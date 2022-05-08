@@ -1,3 +1,24 @@
+TODO:
+
+Language tags on non-italicized names?
+Semantics - do a pass by hand.
+
+
+Pick up at: 17, manifest & spine
+
+
+
+
+Check transcriber's notes
+
+
+
+
+
+============================================================================
+Notes from Project Gutenberg:
+============================================================================
+
 <p class="blockquot">Transcriber's Notes:
 Obvious printer errors have been corrected (including switched lines).
 Ellipses have been standardised. Otherwise the text is as printed.</p>
