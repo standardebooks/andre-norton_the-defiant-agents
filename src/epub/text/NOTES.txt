@@ -5,7 +5,7 @@ Semantics - do a pass by hand.
 Format dedication page
 
 PROOFREADING:
-first pass through chapter 1
+first pass through chapter 3
 
 
 
