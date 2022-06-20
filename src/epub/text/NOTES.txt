@@ -1,11 +1,11 @@
 TODO:
 
-Language tags on non-italicized names?
+Language tags on non-italicized names? (starting in chapter 4)
 Semantics - do a pass by hand.
 Format dedication page
 
 PROOFREADING:
-first pass through chapter 3
+first pass through chapter 6
 
 
 
