@@ -4,8 +4,12 @@ Language tags on non-italicized names? (starting in chapter 4)
 Semantics - do a pass by hand.
 Format dedication page
 
+Apostrophes in Apache words - should they be glottal stops? (shown as apostrophes in scans)
+https://standardebooks.org/manual/1.6.4/single-page#8.7.5.3.1
+
+
 PROOFREADING:
-first pass through chapter 6
+first pass through chapter 8
 
 
 
