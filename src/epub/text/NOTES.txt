@@ -7,10 +7,9 @@ https://standardebooks.org/manual/1.6.4/single-page#8.7.5.3.1
 
 Lupe - Spanish? Usually it's a woman's name, but the character is a man.
 
+<title> for Title page?
 
-PROOFREADING:
-first pass through chapter 12
-
+semantics for names
 
 
 
