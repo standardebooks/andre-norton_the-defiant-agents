@@ -1,51 +1,7 @@
 TODO:
 
-Format dedication page
-
 Lupe - Spanish? Usually it's a woman's name, but the character is a man.
 semantics for names
-
-POSSIBLE COVERS:
-
-
-Wassily Kandinsky, Capricious Line, 1924
-https://www.wassilykandinsky.net/work-530.php
-
-Wassily Kandinsky, White Stroke, 1920
-https://www.wikiart.org/en/wassily-kandinsky/white-stroke-1920
-
-
-
-
-Wassily Kandinsky, Black Accompaniment, 1924
-https://www.wassilykandinsky.net/work-239.php
-Published in 1924 book:
-https://babel.hathitrust.org/cgi/pt?id=mdp.39015014058963&view=1up&seq=52&skin=2021
-
-
-Umberto Boccioni, Elasticity, 1912
-https://en.wikipedia.org/wiki/File:Umberto_Boccioni,_1912,_Elasticity_(Elasticit%C3%A0),_oil_on_canvas,_100_x_100_cm,_Museo_del_Novecento.jpg
-
-
-White Zigzag, 1922
-in book
-https://babel.hathitrust.org/cgi/pt?id=mdp.39015014058963&view=1up&seq=44&skin=2021
-
-
-Wassily Kandinsky, Small Dream in Red, 1925
-https://www.wikiart.org/en/wassily-kandinsky/small-dream-in-red-1925
-
-Transverse Line, 1923
-https://www.wikiart.org/en/wassily-kandinsky/transverse-line-1923
-In book published 1924
-https://babel.hathitrust.org/cgi/pt?id=mdp.39015014058963&view=1up&seq=45&skin=2021
-
-Kandinsky, Improvisation 18, 1911
-https://www.wassilykandinsky.net/work-510.php
-In book published 1917
-https://archive.org/details/einblickin00wald/page/73/mode/1up?view=theater&q=kandinsky
-
-
 
 ============================================================================
 Notes from Project Gutenberg:
