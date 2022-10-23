@@ -8,8 +8,9 @@ section[epub|type~="dedication"]{
 }
 
 /* Align right edge to diagonal. Works in Kobo and Calibre, ignored by Kindle. */
-#dedication-span-1{
+section[epub|type~="dedication"] p::before{
 	clip-path: polygon(100% 0, 100% 100%, 0 100%);
+	content: "";
 	display: block;
 	float: right;
 	height: 12em;
