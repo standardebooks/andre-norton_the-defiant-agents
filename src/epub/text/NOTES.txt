@@ -10,60 +10,10 @@ Notes from Project Gutenberg:
 <p class="blockquot">Transcriber's Notes:
 Obvious printer errors have been corrected (including switched lines).
 Ellipses have been standardised. Otherwise the text is as printed.</p>
-<hr />
-<div class="figcenter">
-<img src="images/frontpage.jpg" width="450" height="700" alt="The Defiant Agents by Andre Norton - Book Cover" title="The Defiant Agents by Andre Norton - Book Cover" />
 
-</div>
-<p><span class="pagenum"><a name="Page_1" id="Page_1">[Pg 1]</a></span></p>
-
-
-<h1>
-<i>THE
-DEFIANT
-AGENTS</i>
-</h1>
-<p><span class="pagenum"><a name="Page_2" id="Page_2">[Pg 2]</a></span></p>
-
-<p><i>By Andre Norton</i></p>
-
-<p class="blockquot">
-RIDE PROUD, REBEL!<br />
-STORM OVER WARLOCK<br />
-GALACTIC DERELICT<br />
-THE TIME TRADERS<br />
-STAR BORN<br />
-YANKEE PRIVATEER<br />
-THE STARS ARE OURS!
-</p>
-
-<p><i>Edited by Andre Norton</i></p>
-
-<p class="blockquot">
-SPACE PIONEERS<br />
-SPACE SERVICE
-</p>
-<p><span class="pagenum"><a name="Page_3" id="Page_3">[Pg 3]</a></span></p>
-
-
-<h1><i>THE
-DEFIANT
-AGENTS</i></h1>
-
-<!--se:split--><h2><i>BY
-ANDRE
-NORTON</i></h2>
-
-<div class="figcenter">
-<img src="images/wptree.png" width="100" height="93" alt="World Publishing Logo" title="World Publishing Logo" />
-
-</div>
 
 <p class="center">THE WORLD PUBLISHING COMPANY</p>
-
 <p class="center">CLEVELAND AND NEW YORK</p>
-
-
 <p class="center"><span class="pagenum"><a name="Page_4" id="Page_4">[Pg 4]</a></span>
 <i>Published by</i> The World Publishing Company
 2231 West 110th Street, Cleveland 2, Ohio</p>
