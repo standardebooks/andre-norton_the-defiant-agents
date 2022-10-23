@@ -8,7 +8,7 @@ section[epub|type~="dedication"] {
 }
 
 /* Align right edge to diagonal. Works in Kobo and Calibre, ignored by Kindle.*/
-#dedication-spacer {
+#dedication-span-1 {
   display:block;
   float:right;
   width: 4em;
@@ -20,5 +20,5 @@ section[epub|type~="dedication"] {
 section[epub|type~="dedication"] p{
 	margin-top: 3em;
 	text-align: right;
-	line-height: 1.67em;
+	line-height: 1.67;
 }
