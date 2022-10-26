@@ -25,5 +25,5 @@ section[epub|type~="dedication"] p{
 }
 
 section[epub|type~="dedication"] b[epub|type~="z3998:personal-name"]{
-	font-variant:small-caps;
+	font-variant: small-caps;
 }
