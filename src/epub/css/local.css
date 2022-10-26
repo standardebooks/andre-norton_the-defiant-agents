@@ -23,3 +23,7 @@ section[epub|type~="dedication"] p{
 	margin-top: 3em;
 	text-align: right;
 }
+
+section[epub|type~="dedication"] b[epub|type~="z3998:personal-name"]{
+	font-variant:small-caps;
+}
